@@ -1,65 +1,67 @@
-# 🎓 KTU M.Tech Computer Science & Engineering – Academic Resource Hub
+# 🎓 KTU M.Tech CSE – Academic Resource Hub
 
-A comprehensive academic resource hub for **KTU M.Tech Computer Science & Engineering students**, featuring syllabus, notes, study materials, previous question papers, lab resources, projects, and learning references.
+A community-driven academic resource platform for APJ Abdul Kalam Technological University (KTU) M.Tech Computer Science and Engineering students.
 
-This repository aims to make academic resources easily accessible to KTU M.Tech CSE students through a centralized, organized, and community-driven platform.
+🌐 **Live Website:** https://shadil-rayyan.github.io/ktu-mtech-cse/
 
-Instead of searching across multiple websites, Google Drive links, and scattered resources, students can find everything they need in one place.
+Our goal is to make academic resources easier to discover, access, organize and share through a centralized platform.
 
-🌐 **Live Website:** [Visit KTU M.Tech CSE Resource Hub](https://shadil-rayyan.github.io/ktu-mtech-cse/)
+## 📖 About This Project
+
+This project aims to provide KTU M.Tech CSE students with an organized collection of academic resources, including syllabus documents, subject notes, previous question papers, laboratory materials, project references and other learning resources.
+
+### Why We Created This Platform
+
+A significant portion of the academic materials available through this repository has been sourced from **KTU On the Go (CSE)**.
+
+We genuinely appreciate the work and dedication behind that platform. The effort involved in collecting, organizing and making academic resources available to students deserves recognition.
+
+**Original Academic Resource Platform:**
+
+🌐 https://ktu.solocoder.org/
+
+We created this GitHub-based platform to build upon the availability of those resources and make them accessible through an additional, student-friendly interface.
+
+Our motivation was to introduce several improvements:
+
+- **Better search engine visibility:** SEO-friendly pages and metadata help students discover academic resources through Google and other search engines.
+- **Organized folder structure:** Resources are arranged by semester, subject and category for easier navigation.
+- **Easy file access:** Students can view supported files directly in the browser or download them.
+- **GitHub-based maintenance:** Academic materials can be managed through a transparent, version-controlled repository.
+- **Community contributions:** Students can contribute additional notes, question papers and learning materials through pull requests.
+- **Static hosting:** GitHub Pages provides a lightweight hosting solution without requiring a dedicated backend server or database.
+
+The intention is not to replace the original platform or take credit for its collection of academic materials. Instead, we want to extend their accessibility and provide students with another convenient way to find useful resources.
 
 ---
 
-## 📚 What You'll Find
+## 🙏 Acknowledgements
 
-The platform provides a collection of academic resources to support students throughout their M.Tech journey.
+We would like to express our sincere gratitude to the creator and maintainers of **KTU On the Go (CSE)**.
 
-- 📖 **Syllabus:** KTU M.Tech CSE curriculum, course structure, and academic regulations.
-- 📝 **Study Notes:** Subject-wise notes, lecture materials, and reference documents.
-- 📄 **Question Papers:** Previous year question papers and model examinations.
-- 💻 **Lab Resources:** Lab manuals, experiments, programs, and practical materials.
-- 🚀 **Projects:** Mini projects, major projects, research ideas, and implementation references.
-- 📚 **Learning Resources:** Useful books, tutorials, research papers, and external references.
-- 📂 **Study Materials:** PDFs, presentations, videos, and other academic resources.
+A substantial portion of the academic resources available in this repository has been sourced from that platform.
 
----
+Their effort in collecting and sharing educational materials has been valuable to the KTU student community. This project builds upon that contribution and introduces additional features to improve resource organization, discoverability and accessibility.
 
-## 🚀 How It Works
+**Please visit and support the original platform:**
 
-This project uses a simple folder-based structure to organize and share academic resources.
+🌐 https://ktu.solocoder.org/
 
-All academic materials are maintained inside the `public/` directory. Contributors can add new files and organize them according to semesters, subjects, and resource categories.
+We encourage students to visit the original website as well.
 
-The website automatically reflects the available resources based on the repository's folder structure.
+This repository is independently maintained and is not an official continuation or affiliated version of KTU On the Go.
 
-No complicated database or backend setup is required.
+All original academic materials remain subject to their respective authors' and copyright holders' rights. We do not claim ownership of third-party content.
 
 ---
 
-## 🛠️ How to Use and Contribute
+## 📂 Academic Resource Organization
 
-Contributions from KTU M.Tech CSE students are welcome!
+All academic resources contributed to this repository must be placed inside:
 
-### 1. Fork the Repository
+`public/academiadrive/`
 
-Visit this GitHub repository and click the **Fork** button to create your own copy.
-
-### 2. Clone Your Fork
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
-```
-
-### 3. Add Academic Resources
-
-Navigate to the `public/` directory and add your study materials.
-
-You can organize resources semester-wise, subject-wise, or by category.
-
-### Example Folder Structure
+Recommended structure:
 
 ```text
 public/
@@ -103,49 +105,16 @@ public/
             └── Tutorials/
 ```
 
-*The above structure is a suggested organization. It can be adapted to the applicable KTU curriculum and regulations.*
+### Uploading Guidelines
 
-### 4. Commit and Push Your Changes
+1. Place each resource in its appropriate semester, subject and category folder.
+2. Create a new subject folder if it does not already exist.
+3. Use descriptive filenames, preferably including the subject and resource type.
+4. Check for duplicate files before uploading.
+5. Include source attribution wherever applicable.
+6. Only upload materials that you have permission to redistribute.
 
-After adding resources:
-
-```bash
-git add .
-git commit -m "Added MTech CSE study materials"
-git push origin main
-```
-
-### 5. Create a Pull Request
-
-1. Visit your forked GitHub repository.
-2. Navigate to the **Pull Requests** tab.
-3. Click **New Pull Request**.
-4. Select the original repository as the base repository.
-5. Submit your pull request for review.
-
-Once approved and merged, your contributions will become available to other students through the website.
-
----
-
-## 📂 Resource Organization Guidelines
-
-To keep the repository organized and easy to navigate, follow these suggestions.
-
-| Category | Recommended Content |
-|---|---|
-| Syllabus | Official syllabus, regulations, course structure |
-| Notes | Subject-wise notes and lecture materials |
-| Question Papers | Previous university examination papers |
-| Lab Resources | Lab manuals, experiments, source code |
-| Projects | Project reports, implementation references |
-| Research | Research papers, journals, technical articles |
-| Learning Resources | Books, tutorials, documentation |
-
-### File Naming Conventions
-
-Use descriptive filenames so students can easily identify resources.
-
-Examples:
+Example filenames:
 
 ```text
 Computer_Networks_Unit_1_Notes.pdf
@@ -156,93 +125,123 @@ Research_Methodology_Reference.pdf
 
 ---
 
-## 🎯 Project Objectives
+## 🤝 How to Contribute
 
-- Create a centralized academic resource repository for KTU M.Tech CSE students.
-- Make syllabus, notes, and examination materials easily accessible.
-- Encourage students to share useful academic resources.
-- Reduce the difficulty of finding reliable study materials.
-- Build a collaborative learning environment.
-- Support academic learning, practical skills, and research activities.
+Contributions from KTU M.Tech CSE students are welcome.
 
----
+### 1. Fork the Repository
 
-## 🧰 Technologies Used
+Use the Fork option on GitHub to create your own copy.
 
-- **Next.js (static export):** Builds the browsable site deployed to GitHub Pages.
-- **GitHub:** Version control and collaborative contributions.
-- **GitHub Pages:** Static website hosting.
-- **TypeScript & React:** UI, routing, and file browsing.
-- **HTML & CSS:** Website structure and styling.
-- **Git:** Managing and tracking contributions.
+### 2. Clone Your Fork
 
----
+```bash
+git clone https://github.com/YOUR_USERNAME/ktu-mtech-cse.git
+cd ktu-mtech-cse
+```
 
-## 🗜️ Compression
+### 3. Add Academic Materials
 
-Run `npm run compress` to losslessly compress PDFs and PNGs under `public/academiadrive/` before committing. The script keeps page counts and text intact for PDFs.
+Navigate to:
 
-## 👀 Viewing Files
+`public/academiadrive/KTU-MTech-CSE/`
 
-The site lists every file type. Use **View** to open a file in the browser or **Download** to save it.
+Upload your resources into the appropriate folders.
 
----
+### 4. Commit Your Changes
 
-## 🤝 Contributing Guidelines
+```bash
+git add .
+git commit -m "Add MTech CSE academic resources"
+git push origin main
+```
 
-This is a community-driven initiative. Every useful contribution helps fellow students.
+### 5. Submit a Pull Request
 
-Please follow these guidelines:
+1. Open your forked repository.
+2. Navigate to Pull Requests.
+3. Select New Pull Request.
+4. Select the original repository as the base repository.
+5. Submit your changes for review.
 
-1. **Be Relevant:** Upload resources related to KTU M.Tech Computer Science & Engineering.
-2. **Stay Organized:** Follow the suggested folder structure.
-3. **Use Clear Names:** Give files descriptive names.
-4. **Avoid Duplicates:** Check whether a resource already exists before uploading.
-5. **Maintain Quality:** Prefer readable, accurate, and useful academic materials.
-6. **Respect Copyright:** Upload only materials you have permission to share. Provide references and attribution wherever necessary.
-7. **Be Respectful:** Maintain a collaborative and supportive learning environment.
+After review and approval, your contribution will become available through the website.
 
 ---
 
-## 💡 Have Something to Contribute?
+## 🌐 Website Features
 
-Have useful notes, previous question papers, lab programs, project resources, or learning materials?
+- SEO-friendly pages for improved search engine discoverability.
+- Folder-based academic resource organization.
+- Browser-based file viewing.
+- Direct file downloads.
+- Static hosting through GitHub Pages.
+- Community-driven resource contributions.
+- Git-based version control and maintenance.
 
-Don't keep them to yourself!
+## 🛠️ Technologies
 
-Share them with the community by submitting a pull request. Even a single useful resource can help another student.
+- Next.js – Static website generation.
+- React – User interface.
+- TypeScript – Application development.
+- HTML and CSS – Website structure and styling.
+- Git and GitHub – Version control and collaboration.
+- GitHub Pages – Static website hosting.
+
+## 📦 Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+To compress supported PDF and PNG files:
+
+```bash
+npm run compress
+```
+
+The compression script operates on supported files under `public/academiadrive/`.
 
 ---
 
-## 📢 Join the Community
+## 📩 Copyright Concerns & Content Removal
 
-This project is more than just a collection of PDFs and documents. It is an attempt to build a collaborative academic ecosystem for **KTU M.Tech Computer Science & Engineering students**.
+We respect the intellectual property rights of original authors, creators and content owners.
 
-Whether you are preparing for examinations, working on laboratory assignments, exploring research topics, or developing projects, this repository aims to provide resources that make your academic journey easier.
+Although this repository aims to make academic resources more accessible, we recognize that some materials may belong to third parties.
 
-**Learn together. Share knowledge. Grow together.**
+If you are an author, copyright holder or authorized representative and believe that any material hosted in this repository infringes your copyright or has been shared without your permission, please contact us.
 
----
+**Email:** shadilrayyan1@gmail.com
 
-## 🔁 Forking / starting your own
+Please include the following information in your email:
 
-This project is fully self-contained (static Next.js export to GitHub Pages). If this repository becomes inactive, you are free to **clone it and run your own** instance — no permission required. Update the remote, `basePath`, and deploy target to your own GitHub Pages (or any static host).
+1. The name or description of the copyrighted material.
+2. The GitHub repository file path or direct URL of the material.
+3. Proof of ownership or authorization to represent the copyright holder.
+4. A brief explanation of your removal request.
 
-## 📜 License
+We will review legitimate requests and take appropriate action, including removing or restricting access to the identified material where necessary.
 
-This project is distributed under the license specified in the [`LICENSE`](LICENSE) file.
-
-Please ensure that all contributed materials comply with their respective licenses and copyright requirements.
+**We respect original creators and are committed to maintaining a responsible academic resource platform.**
 
 ---
 
 ## ⭐ Support the Project
 
-If you find this repository useful:
+If you find this platform useful:
 
-- ⭐ Star the repository.
-- 🍴 Fork it and contribute.
-- 📢 Share it with fellow KTU M.Tech CSE students.
-- 🤝 Help expand the academic resource collection.
+- Star the GitHub repository.
+- Share it with fellow KTU M.Tech CSE students.
+- Contribute useful academic resources.
+- Report issues and suggest improvements.
 
-**Let's make quality academic resources accessible to every KTU M.Tech CSE student!**
+We also encourage students to visit and support the original resource platform:
+
+**KTU On the Go (CSE):** https://ktu.solocoder.org/
+
+---
+
+**Our vision is to make academic knowledge easier to discover, access and share.**
+
+**Learn together. Share knowledge. Grow together.**

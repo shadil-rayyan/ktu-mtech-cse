@@ -1,0 +1,641 @@
+{
+  "files": {
+    "CS1 Course Info.pdf": {
+      "sha256": "7e693c5576ea58acca203b1a2f34ae9972418f619c2ca1113c427afc9c9303cb",
+      "size": 385140
+    },
+    "M.Tech 2022 Regulations.pdf": {
+      "sha256": "37d2343ddc7faff825cd1b76f091bc05e040158ccabc932556252c49dfc78f90",
+      "size": 359116
+    },
+    "M.Tech Curriculum.pdf": {
+      "sha256": "36534604df1bb5fd20185e8dfce1ceea299677a9bf90062c95094bd75ac6b44d",
+      "size": 313224
+    },
+    "semester_1/advanced_database_management/notes/Module III.pptx.pdf": {
+      "sha256": "d7f87021bc8ed2dcce7f0cbd9cdb794f1c23c805ad308d52596a097a2a7ddec3",
+      "size": 1572655
+    },
+    "semester_1/advanced_database_management/notes/module 1/Module1(indexing_and_hashing).ppt (1).pdf": {
+      "sha256": "c393268a2640005905c15a325fe96923af9e2d3684c5c2f113a17d8e5d883274",
+      "size": 2079047
+    },
+    "semester_1/advanced_database_management/notes/module 1/Module1_query_processing.ppt (1) (2).pdf": {
+      "sha256": "45c231d52002235f64fb1fdc87801bebc0f54db642ad8590d7cd01eeed793616",
+      "size": 1367116
+    },
+    "semester_1/advanced_database_management/notes/module 2/MAC and SQL Injection.pdf": {
+      "sha256": "087c8525bcecdb45365e6a2ea26bea2d349cddcc91501a7c31885c8a1ec60420",
+      "size": 4460315
+    },
+    "semester_1/advanced_database_management/notes/module 2/Module2(DB Security) .pptx (3).pdf": {
+      "sha256": "20caa1dccd836bcbbc208778f88b11e010324cac9437a702906e5ed775929e9f",
+      "size": 250481
+    },
+    "semester_1/advanced_database_management/notes/module 4/Advanced indexing summary.pdf": {
+      "sha256": "6a4cd922e50e84a05699d445f85a3f05ff8555b378997da404a6f425d513c4e1",
+      "size": 4925966
+    },
+    "semester_1/advanced_database_management/notes/module 4/Advanced indexing techniques.pdf": {
+      "sha256": "a507104894b63e7ea2c3473309386b3c3418b07f3703b8cb39e9e7926d97c1e3",
+      "size": 3770828
+    },
+    "semester_1/advanced_database_management/notes/module 4/Module4 .pdf": {
+      "sha256": "59976965dee0d9a5e4f0a5092a684c8b723528b17b0f8c6041bf03fcd9a55469",
+      "size": 1198417
+    },
+    "semester_1/advanced_database_management/notes/module 5/ADB Module 5 Native XML Database and Object Relational Systems (1).pdf": {
+      "sha256": "af8b7d197d4a7e030e44c96735a0f57724b1a97c58e0ec2859ba105b97895a66",
+      "size": 435796
+    },
+    "semester_1/advanced_database_management/notes/module 5/ADM_Mod5_Xml.pptx (1).pdf": {
+      "sha256": "a6fa1e103dc0a18dc02ad1436d904e8813b5e29515f1b090eb16f07980059f62",
+      "size": 1506372
+    },
+    "semester_1/advanced_database_management/notes/module 5/Object relational Systems (1).pdf": {
+      "sha256": "a6c60eed8030505d80306b9f4a9f656b22f24999a12b37225069a86cbdce5db6",
+      "size": 3555915
+    },
+    "semester_1/advanced_database_management/question_paper/Advaned Database Management.pdf": {
+      "sha256": "5db56f490dc68be935ca91b96d3fff7ce513c7ba4c648c0adf58195793fca1b8",
+      "size": 2959407
+    },
+    "semester_1/advanced_database_management/series_qp/CET ADB Dec 2023 Series.pdf": {
+      "sha256": "389dd64750e1f3dedc8ad4a6c7269909367228d1bc4acf000d2e13559a5c39d9",
+      "size": 582360
+    },
+    "semester_1/advanced_database_management/series_qp/GECT ADB Dec 2023 Series.pdf": {
+      "sha256": "2d041b5828cfbd22029aa10b2059d3b862af168ad70a418abe900e1c0212a849",
+      "size": 947313
+    },
+    "semester_1/advanced_database_management/series_qp/MACE ADB Dec 2023 Series Set 1.pdf": {
+      "sha256": "be824312e99a975a11143399fb4d2ab1cc37ffe18c90f7012157354adaccac21",
+      "size": 268719
+    },
+    "semester_1/advanced_database_management/series_qp/MACE ADB Dec 2023 Series Set 2.pdf": {
+      "sha256": "7ae8cdb1cf78ea9bb6adb4a452ee2d0ce328633cb8fa7d07f6a20dd4588bbc12",
+      "size": 259014
+    },
+    "semester_1/advanced_database_management/series_qp/SCTCE ADB Dec 2023 Series.pdf": {
+      "sha256": "1a6be74d7146edbc1e8c67115682a145b2a825c3aecea3b84b7ece108010746e",
+      "size": 622893
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Advanced Machine Learning.md": {
+      "sha256": "c9b8499ac897887041414d3b31ac3860063e55bb00d19a68908e3a34c231cc6d",
+      "size": 12440
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/3855_349_118_REGRESSION_PDF.pdf": {
+      "sha256": "68f9d6e3063acf43f8b6dfd56452abf74962f4b22333a434e565c42d06a41dc0",
+      "size": 625526
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/3862_349_118_LECTURE_-1_2.pdf": {
+      "sha256": "3fb369e7481d525bd5f9051233fcc00538f06c287a6c891727699e7cf1ee6176",
+      "size": 3405018
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/3863_349_118_LECTURE_3.pdf": {
+      "sha256": "26af9f431916871139d621e219bc848277d22b11ea620e15db4825b1235eadba",
+      "size": 1037953
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/3880_349_118_Artificial_Neural_Networks_syla_final_WITH_BACK_PROPOGATION.pdf": {
+      "sha256": "ff1eb4202f58013772eb70c24f9cf8f57b99f41435daf74f546a1061a9a52e62",
+      "size": 3343616
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/3888_349_118_classification_metrics_tutorial_slides_pdf.pdf": {
+      "sha256": "d0459a1c314ce94c6ce1d1694f47fdfb722e9315fdbdcd7e8221d14519efc0ef",
+      "size": 521052
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/3910_349_118_Logistic_Regression_final_syla.pdf": {
+      "sha256": "523827c24fa1d5833d810a9fc0ec43bffd6a8d858c5398dbe515a397e5a441fa",
+      "size": 303918
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/3911_349_118_Artificial_Neural_Networks_syla_final.pdf": {
+      "sha256": "698749b5f967a1fee01c644a1b7146c98980082c0f54d963494b3efa31311b7c",
+      "size": 9384085
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/3912_349_118_Perceptron_Concepts_syla.pdf": {
+      "sha256": "200120ceb1116f1b40c55e7f1fd955bc49259f809b59bd45cfb9df8c3d28eafa",
+      "size": 9708203
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Activation Function Problems.pdf": {
+      "sha256": "30bf0f89430c94a0773f3fa43357ca4bbfc3927a52855264844ba751f532fb18",
+      "size": 2922263
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Back Propagation Algorithm.pdf": {
+      "sha256": "388f758becbfe6d29c6b2fe90467406cd2a5be68f40d9c724cfc7488cc895452",
+      "size": 23227
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Back Propagation Example.pdf": {
+      "sha256": "3558632ecc8738e0c9ac34a3058228f151ccf1d7388417eddac93eb9a3e15f83",
+      "size": 2679717
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Backpropagation Algorithm-Neural Network Error.pdf": {
+      "sha256": "d0bfa9e0543a0c75ef8779b348687daab1c5c7d7fe52d908c4e681be8748cc63",
+      "size": 3775129
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Bayes Formulation.pdf": {
+      "sha256": "3716cdb992ac9ed0efce3b1f0ce8dca6bb742327e7a1e1df7869ed37268c9c67",
+      "size": 848764
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Bayesian Network.pdf": {
+      "sha256": "f9526d59a319c0b3c9bbcd3fde55c327d086a8519c65187f2c97e391a203b38f",
+      "size": 598976
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Bootstrapping.pdf": {
+      "sha256": "e3f6dd7870c08e306b90bf229360fc279d8f5a12e570f4142cdd8322d5790720",
+      "size": 991676
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Classification Assessment.pdf": {
+      "sha256": "0a5de39e9903cfa97c3e05d350cb2cc77666830ca52277a89ec8dc78cd9ed2b0",
+      "size": 462030
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Clustering_Metrics_Study_Notes.pdf": {
+      "sha256": "f5730e71778dd9e0380a16848da802844a9395a50a30a85b814d82bc9f5b2a09",
+      "size": 1173821
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Coefficient Of Determination.pdf": {
+      "sha256": "3b9c7e70ddba30123ed12724605bfb415d77093cf3e43b290dcbe262bfe1e5fe",
+      "size": 733874
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Cross Validation.pdf": {
+      "sha256": "585ab040a9849637752f388135c1554005ccde778f622ca8df7d511aa7baea71",
+      "size": 551282
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/DBSCAN.pdf": {
+      "sha256": "696b1034800128bd2f5f8d398557095a48e3e7588599fa51e50fd6adf670b45b",
+      "size": 593216
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Decision tree 1.pdf": {
+      "sha256": "c62edeecb5549369cc53d7dd7d314f62da576341189a6051571671f603bc904a",
+      "size": 942806
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Decision tree 2.pdf": {
+      "sha256": "b3d9409a66b321e3ac95c713f61c5b3ba23e40e327da98325f62e458215cc509",
+      "size": 1729051
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Dimensionality Reduction.pdf": {
+      "sha256": "6fe9f3918f89d23eefeae2a68ca9f07174f78e7db84e0bcdbe2d64c98150e3f1",
+      "size": 1110465
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/EM-Theory.pdf": {
+      "sha256": "38b8068ac02f292357dc49b97916c92b5bdff7ad0e2913df32f9de72d52aef4b",
+      "size": 1259841
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Ensemble Methods.pdf": {
+      "sha256": "1572c4bb101317094e270a7b18654b574139b38525345e947da14de3e706356f",
+      "size": 1970993
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Forward Algorithm.pdf": {
+      "sha256": "d7c93c7d1e79602ac1fe40687913f25d2353539462964f23728153af883302cd",
+      "size": 1670001
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/GD.pdf": {
+      "sha256": "77c01507e2f049b3c0dff12cb5c43afff1ea53e00426a47d7be0d0037bdb831b",
+      "size": 277606
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Gradient Descent.pdf": {
+      "sha256": "fd884ddbfe694e801662dc31309e91477ff0d86236b0c2639606551ad5c080c4",
+      "size": 127098
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Hierarchical Clustering 1.pdf": {
+      "sha256": "0dab08857e57653394150647d3c0eb7869d251e1a6b8ac5af10f3f9bb08f93ce",
+      "size": 447990
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Hierarchical Clustering 2.pdf": {
+      "sha256": "c98cd33958f1aaa44b439898aa5509cd9a282df2448a39feaaacd35f9dccd3cc",
+      "size": 1537752
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Jaccard Coefficient.pdf": {
+      "sha256": "8a0b19a0c9b0a86142ac475da1425805975bce82d8045dd20b82fbadcdcc82ce",
+      "size": 222402
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Kernel Functions.pdf": {
+      "sha256": "5fa517db12442cf8c8534f0d93ef1c2c31dd2b6848d58c893659255eb4b324a7",
+      "size": 77217
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/L_27.pdf": {
+      "sha256": "6e06eef34c594c066fefb685ad1226ee1fcbebe9116dbc4ac958d99871749d45",
+      "size": 1611564
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Lecture1-machine learning paradigms.pdf": {
+      "sha256": "2dbc4eb3f8e199fe2631df42f882397195d671b60f9ac0a57274914e3672593d",
+      "size": 1945819
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Logistic Regression.pdf": {
+      "sha256": "bf5757867c3efdaedaf70ee6d55eba56aed31622e865d5fe24b4f14938ef453f",
+      "size": 4528601
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MAP (1).pdf": {
+      "sha256": "7e3b1f5417a42e14b2878de9cbbf2469c006f26fed6b7f5bce47a0e974fbd1e1",
+      "size": 185258
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MAP 1.pdf": {
+      "sha256": "889417b5ecec586a9d8ae99638b8768b2f59de19b12ff7747d06b12b1bdc57b7",
+      "size": 3500699
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MAP 2.pdf": {
+      "sha256": "f168e035be05ef516232fbd4e6862f82c773c8965e1e9b1e8214c7ae10b3323c",
+      "size": 7766988
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/ML - Unsupervised.pdf": {
+      "sha256": "cafb610425bda80b2104b79afb81e4386163246583dcfcd5d09562a29cdfe31d",
+      "size": 3031707
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MLE 1.pdf": {
+      "sha256": "dfa5d609b7462562b8b3b0139d25d9e6c22dd87c39656743ad8dd66bc1d7de92",
+      "size": 671048
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MLE 2 1.pdf": {
+      "sha256": "8702c0b594c90d6322c944e3fdb4a27b99cda711faedce8f0f56e4ebd5ed9c79",
+      "size": 2047979
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MLE 2.pdf": {
+      "sha256": "816f7bcd62ed4decae07838c9d927176a5de123c929b48f003e6fe9ef0e6e194",
+      "size": 537647
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MLE 3.pdf": {
+      "sha256": "31cb41027ee4dade8fcc7b761fa6ca696cbc65a295bd7a756276f11336bc245d",
+      "size": 897951
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MLE 4.pdf": {
+      "sha256": "4a62267782e692a9b17a8c0a07a18d433a17073266ee9afa7aac2be20be34c41",
+      "size": 762120
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MLE__1.pdf": {
+      "sha256": "b09cc84e8cda86465cfb781d87bddef0eb04451feb847f144e4556c54583a386",
+      "size": 144553
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/MODULE 1-8.pdf": {
+      "sha256": "3938703feee39f19f443b7b5dccadd63a8e9ce2015f239ab512ef95c2469af20",
+      "size": 7126066
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Machine Learning Paradigms.pdf": {
+      "sha256": "7e0bdefb8a08110decc03da100f2b3acfd8659726d0541c3febcbe037b5f75d0",
+      "size": 540501
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Model Selection and Assessment.pdf": {
+      "sha256": "f79b71b4e6967e0ed786c9eb2de60aa644882b10c0350d0dc502f45fb77539bc",
+      "size": 69505
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Multilayer Feed forward Network and Activation Functions.pdf": {
+      "sha256": "977631039bca5d50775481bd671310d6097a14cabc760a068d43c0bcb21ea807",
+      "size": 574135
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Multiple Linear Regression.pdf": {
+      "sha256": "6fa86b175390a594748df301ebe2a157b7c1547e243bc8a6eb15c982eb45dc3e",
+      "size": 4431261
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Mutual Information.pdf": {
+      "sha256": "643da5c00cea419e1f9fe55972076ad2cc6064ae0858977a80e26b15074fd61a",
+      "size": 195021
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Naive Bayes.pdf": {
+      "sha256": "cde7c8c731d6e686f12ad05798482b84f471d76a721ef55f7602321d468cb65c",
+      "size": 3955082
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Normalised Mutual Information.pdf": {
+      "sha256": "3077f56fe8943f0976d2159f79aa75d9b8a6fed7b852648873e9067505fb7a07",
+      "size": 416276
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Overfitting Lasso-Ridge Regularisation.pdf": {
+      "sha256": "ac2b36752bd40c07d6419067ccb7313b950da1f9667e808ebb03ac5c619368c3",
+      "size": 519361
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/PCA Problem.pdf": {
+      "sha256": "23dc65a7661533bd17184d71636e5dc00b69460625b456f463f9895aa0ef238c",
+      "size": 579773
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Perceptron 1.pdf": {
+      "sha256": "2e189b366294d038535ea57c576692abdda2f2ca01a5a8ed17ee5c5471b29763",
+      "size": 326308
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Perceptron 2.pdf": {
+      "sha256": "1f1f4ec210c0fd0ca835c129b66c2adf96bc2e909a2c8a686fa8e5ae939a1d0d",
+      "size": 770859
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Perceptron Problems.pdf": {
+      "sha256": "0c2c519f48e3d47eac5dab87309cb29ca943027e2008774286407a6de51e3066",
+      "size": 1981164
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Practical Aspects in machine learning.pdf": {
+      "sha256": "289041a2da0743314d05ade895d31544f6336a5a23c3e8348744ac76648d86e8",
+      "size": 144829
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Purity.pdf": {
+      "sha256": "9c64fc154a1748cfac7b2254fbd7c279d93418bffa717555284cb683cf5cb030",
+      "size": 107058
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/ROC Curve Problem.pdf": {
+      "sha256": "026b977e49de833032a175e5b4f3d571c89c955d77fa814fe0ec4535b1124397",
+      "size": 228282
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/SVM Problems.pdf": {
+      "sha256": "123aa02ddc8fb361c991c8482d1d2d7926c4177eff5013dc505334b103036211",
+      "size": 6670075
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/SVM-Theory.pdf": {
+      "sha256": "4d2d12384eea1873158aa32518e222bbd7f5e647dcfb779dc0aed0f91a39a7a5",
+      "size": 9564356
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Unsupervised Learning-Similarity Measures.pdf": {
+      "sha256": "07454f96bc85069b2b12f8e7eb2a6e9ef2f81a8df4855b418dcdf91d4e4035b3",
+      "size": 1911286
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Viterbi Algorithm.pdf": {
+      "sha256": "13e420a31489393936b8ef912e46fddd75009b342719a6b42f6e9f42ae57f764",
+      "size": 1165483
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/Viterbi-PPT.pdf": {
+      "sha256": "70d52a792f2f13719573185b23237da779db6b630d2ef853a1a2764e8827dc68",
+      "size": 1175415
+    },
+    "semester_1/advanced_machine_learning/notes/amal/Resources/adboost1.o.o.pdf": {
+      "sha256": "507e21f25277beed03629d778fbf608328f835947fabaf0a90b84f3b6099c95f",
+      "size": 227928
+    },
+    "semester_1/advanced_machine_learning/question_paper/221TCS100 ADVANCED MACHINE LEARNING, DECEMBER 2023.pdf": {
+      "sha256": "5c1c3f229195e84987557abd8c430949aa656e7066c3e70415f4a1137394038b",
+      "size": 2038281
+    },
+    "semester_1/advanced_machine_learning/question_paper/Advaned Machine Learning.pdf": {
+      "sha256": "9dc050c7d2135c838432bf60646791e644a9abe4b38474a1636f4f9958b91aa0",
+      "size": 3773664
+    },
+    "semester_1/advanced_machine_learning/series_qp/CET AML Dec 2023 Series.pdf": {
+      "sha256": "0fd28b7e74d5b7a2834faba08ac377bfc679373696a910f232196df3153afcfa",
+      "size": 530979
+    },
+    "semester_1/advanced_machine_learning/series_qp/GECT AML Dec 2023 Series.pdf": {
+      "sha256": "db126586ff0743d9e786ef39c7da054cd48a710f71d40281dd3e9ed97bcf74ec",
+      "size": 931831
+    },
+    "semester_1/advanced_machine_learning/series_qp/MACE AML Dec 2023 Series Set 1.pdf": {
+      "sha256": "8c36d462fc342e6c8e690ff9e071d744248d9097d0dc4aaf6a8d314d9eae57c4",
+      "size": 269244
+    },
+    "semester_1/advanced_machine_learning/series_qp/MACE AML Dec 2023 Series Set 2.pdf": {
+      "sha256": "ea4bed4a52e564fea4d23c145fde0e040b52f5d3ac47a9e08e39840f45c3711d",
+      "size": 208892
+    },
+    "semester_1/advanced_machine_learning/series_qp/SCTCE AML Dec 2023 Series.pdf": {
+      "sha256": "a7d2c964763ca48a2e57580e4affe03dc495e4f4db9a19594f352bc2a8f96885",
+      "size": 737345
+    },
+    "semester_1/computing_lab_1/Lab Manual .pdf": {
+      "sha256": "d9a492a3dc4d8f33595739dac3c6494956d0c68b4a4317c70c64729940761a93",
+      "size": 2260187
+    },
+    "semester_1/computing_lab_1/Lab programs.pdf": {
+      "sha256": "bb1fce0cff190b6b3ee72c25e79edee2832d53fb9eda83f12bee77121eb15d6f",
+      "size": 509442
+    },
+    "semester_1/elective_1/Advance computer network/notes/acn_module1_merged.pdf": {
+      "sha256": "9ccea99d2650fc54bd33a056a1d55a37a126099f3c3b0fbb7b6558b8e8d66465",
+      "size": 1781596
+    },
+    "semester_1/elective_1/Advance computer network/notes/acn_module2_merged.pdf": {
+      "sha256": "0d554c2d48a43bf9aae5896ce7c16dc54d668b87a467813cb9dff76070ec8d28",
+      "size": 1249011
+    },
+    "semester_1/elective_1/Advance computer network/notes/acn_module3_merged.pdf": {
+      "sha256": "2d55bd3e36bb7cdc3e1233ebe753becc00c30a9b71378a56f9660bfd193bf9ef",
+      "size": 1188462
+    },
+    "semester_1/elective_1/Advance computer network/notes/acn_module4_combined.pdf": {
+      "sha256": "b685bcf193da3115355872eaece11eb7f60d0aca78465bd2370d5fffa8329263",
+      "size": 3014075
+    },
+    "semester_1/elective_1/Advance computer network/notes/acn_module5_merged.pdf": {
+      "sha256": "e17be5ecaba297f785a1ec672ea22d335ddc5e4a418722af5146e2767d480900",
+      "size": 1369833
+    },
+    "semester_1/elective_1/Advance computer network/notes/shadil/md/Module 1.md": {
+      "sha256": "4854b4aaf75bc5a5134cfe65815dff10496d9f58ae354547b9122368464bc66a",
+      "size": 126986
+    },
+    "semester_1/elective_1/Advance computer network/notes/shadil/md/Module 2.md": {
+      "sha256": "6459854f467b5d53240c264d2bcb28c28b0ebe8092d2469ecc5f41e65f85eeaa",
+      "size": 89755
+    },
+    "semester_1/elective_1/Advance computer network/notes/shadil/md/Module 3 \u2014 Networking Technologies.md": {
+      "sha256": "3da941e4b3994ae4a899c4c11dacde1b7540dd444c366ef7129320d3d1da1c1a",
+      "size": 111100
+    },
+    "semester_1/elective_1/Advance computer network/notes/shadil/md/Module 4.md": {
+      "sha256": "335974d1dd24bb4f252b8cb689ecca099885aa4abd2d0192f7227ae405bea833",
+      "size": 95535
+    },
+    "semester_1/elective_1/Advance computer network/notes/shadil/md/Module 5.md": {
+      "sha256": "844fa15ad7931d259fe9454d2195bf9755efb306fcf9a8f2f7603baa4c5360d5",
+      "size": 84012
+    },
+    "semester_1/elective_1/Advanced_computer_architure/ACA Module 1.pdf": {
+      "sha256": "5d65cc992f7a99cc14ccadb5a1532fce38e1f7319e320de3bb6d5e4ea9ff02c5",
+      "size": 2351939
+    },
+    "semester_1/elective_1/Advanced_computer_architure/ACA Module 2.pdf": {
+      "sha256": "8094f153631444db05b65b6ddfcc06a9f6d5b6bf9308b338245cc2443ddd59d7",
+      "size": 2936785
+    },
+    "semester_1/elective_1/Advanced_computer_architure/ACA Module 3.pdf": {
+      "sha256": "6e143a313746a8bc62a0bcd4355a986ef5de21817e3da45d2d04855d35cf8fa8",
+      "size": 2991330
+    },
+    "semester_1/elective_1/Advanced_computer_architure/ACA Module 4.pdf": {
+      "sha256": "5c03ce251873198a1de4464ffb894fa75fbdb5d8901b6b984d27d65524b28e3f",
+      "size": 1061633
+    },
+    "semester_1/elective_1/Advanced_computer_architure/ACA Module 5.pdf": {
+      "sha256": "a3e8d197c0d3f5c816d054da4e97300e10ec7ab3e69fa091ff0a8c61f6cc247b",
+      "size": 6331162
+    },
+    "semester_1/elective_2/Advanced_data_mining/notes/ADM Module 1 and 2.pdf": {
+      "sha256": "df9fa86aea91c41cb2a7688cd9a2d09c11ed9e989db39fcce9e6e2b978545011",
+      "size": 3110332
+    },
+    "semester_1/elective_2/Advanced_data_mining/notes/ADM Module 3.pdf": {
+      "sha256": "9bf3f02980261522789f42039db45c73fb0ddcd1e7c557c40bb2a59cc48b55d4",
+      "size": 2126613
+    },
+    "semester_1/elective_2/Advanced_data_mining/notes/ADM Module 4.pdf": {
+      "sha256": "7cfb4e843ac6015e5bd21f70ac9f42d3a1d96ae82c3c43a92b87fc4a0382f792",
+      "size": 1928954
+    },
+    "semester_1/elective_2/Advanced_data_mining/notes/ADM Module 5.pdf": {
+      "sha256": "826b7b1bb349bff2e78f0f8a7d38372fdf908931597cddb518a1a20c7c2827ee",
+      "size": 2411452
+    },
+    "semester_1/elective_2/Advanced_data_mining/notes/ADM Problems.pdf": {
+      "sha256": "11762e36ae6470bbe1d74a7d5db200ca6da61696fa03a2ccc54917d7342c20ce",
+      "size": 1485070
+    },
+    "semester_1/foundations_of_computer_science/notes/FCS Notes (All Modules).pdf": {
+      "sha256": "7026a2fa79884972ae35c92f19081ed3c7123b582b75a1fb6ab88b0589fd7789",
+      "size": 43610566
+    },
+    "semester_1/foundations_of_computer_science/notes/FCS_equation.pdf": {
+      "sha256": "ecb6d5fe1c884544f226bff3db12f85b9fe05d1a8363492d913a3e4442cf66f7",
+      "size": 295571
+    },
+    "semester_1/foundations_of_computer_science/notes/Statistical Tables.pdf": {
+      "sha256": "e5e1628db3952ccdc4093599d8b15ec49b699bbac3dae2e6e42225adef7f52a2",
+      "size": 14529816
+    },
+    "semester_1/foundations_of_computer_science/notes/set1/FC(Module-1)-1.pdf": {
+      "sha256": "cfa92ea8a8b775e5e749a5f3838e2a5711a3c7c3bf9f2be765befa2d8a507f28",
+      "size": 946842
+    },
+    "semester_1/foundations_of_computer_science/notes/set1/FC(Module-2).pdf": {
+      "sha256": "e42198c183854ae15b7c2cbb9c3175aa78a3d813d46b207cfb0fa6a8398c24b0",
+      "size": 1244088
+    },
+    "semester_1/foundations_of_computer_science/notes/set1/FC(Module-3)-1.pdf": {
+      "sha256": "b06efdb26a92ab428de588134d09b32d665d75fb3844c3b1b73e8f66d83d0eee",
+      "size": 514919
+    },
+    "semester_1/foundations_of_computer_science/notes/set1/FC(Module-4)(1).pdf": {
+      "sha256": "aeb043d0b73b9917dfbc0aaa4a8225e504bf27c0da1bd94a2577c98bcfdedd48",
+      "size": 2178427
+    },
+    "semester_1/foundations_of_computer_science/notes/set1/FC(Module-5)-1.pdf": {
+      "sha256": "e81aaf7ab422dad7bc95694456e7e816147fd717b6bca297baf30524a94b97d8",
+      "size": 657269
+    },
+    "semester_1/foundations_of_computer_science/notes/set2/FCS Module 1.pdf": {
+      "sha256": "170dbb2ef52702e96419b8f2de0228587a417f6c7bdd5fcb8f9bfc9ca0bbfc63",
+      "size": 17736490
+    },
+    "semester_1/foundations_of_computer_science/notes/set2/FCS Module 2.pdf": {
+      "sha256": "bfa9f921bf199739fbf42401c0d15d0ba8d18ed04c6275f1575c12018cfad2cf",
+      "size": 4477339
+    },
+    "semester_1/foundations_of_computer_science/notes/set2/FCS Module 3.pdf": {
+      "sha256": "caa69e0cfc83fd1df90bd1f84cc7fd0e7675697739ab9c618a62c25523d00e36",
+      "size": 5781741
+    },
+    "semester_1/foundations_of_computer_science/notes/set2/FCS Module 4.pdf": {
+      "sha256": "69dd1ac1ffcf8b9bb4741d0b2e408ff3e92fb16364fd3ccba26e64aa2379aba2",
+      "size": 19244966
+    },
+    "semester_1/foundations_of_computer_science/notes/set2/FCS Module 5.pdf": {
+      "sha256": "4ebaeeafc2e40004609de5b8f5a05682c43cc661c63310368a5ef33cbbb3bc73",
+      "size": 2806511
+    },
+    "semester_1/foundations_of_computer_science/question_paper/Foundations of Computer Science.pdf": {
+      "sha256": "d9cf446cf4990198730f83d1b75683fa1103805343505caa9bd137ff55be2f5c",
+      "size": 2852810
+    },
+    "semester_1/foundations_of_computer_science/series_qp/CET FCS Dec 2023 Series.pdf": {
+      "sha256": "27db751b425adbaaf1626eb5f77ea5a55f7559f93fedef7672ec3840784804c4",
+      "size": 270044
+    },
+    "semester_1/foundations_of_computer_science/series_qp/GECT FCS Dec 2023 Series.pdf": {
+      "sha256": "ac20f202a482ea4b1ad38cdad928486d0006b8e36523b83cb697755b2aac2397",
+      "size": 533967
+    },
+    "semester_1/foundations_of_computer_science/series_qp/MACE FCS Dec 2023 Series.pdf": {
+      "sha256": "a20c6b40fb55fcf92be325d2cb6decbd25f32b31ea22e98a25efe9ef658b9ead",
+      "size": 227995
+    },
+    "semester_1/foundations_of_computer_science/series_qp/SCTCE FCS Dec 2023 Series.pdf": {
+      "sha256": "cfcabde4b65f54485226a589281b4a35b1f0ef0aed2379d3b0293f8dbda60381",
+      "size": 665578
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 1.pdf": {
+      "sha256": "02bc59a3f2be14037f3849d0b956b3b9b44fcfc08715482c71b22c78a101430e",
+      "size": 4832674
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 2.pdf": {
+      "sha256": "a63eb2f009cf242863ce1b84829ec09abd0bc6e45c7ed0615663b5d2a84c71ca",
+      "size": 568989
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 3.1 and 3.2.pdf": {
+      "sha256": "03157477ab113010d6f9e6fa04dbba0a274896a08ec87f8e52c412de29d52a52",
+      "size": 815251
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 3.3.pdf": {
+      "sha256": "86ba7ed724ed61cb9a839733f820336497c668d3e07c42236591466e2d8dea21",
+      "size": 421218
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 3.4.pdf": {
+      "sha256": "adfab72aebed2d0b2de0534eca432f09668fab2d4b069a4d0a8f94b0d9e2b24f",
+      "size": 77951
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 3.5.pdf": {
+      "sha256": "f9712a978cae744c3b6e2888419c770455c117fc2e1191dc2dd7c56a44c3561c",
+      "size": 200283
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 3.6.pdf": {
+      "sha256": "a6a1ced1b6d1187d922efdab369ed1c35381a519c7db76683658a61f0d57f248",
+      "size": 140952
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 3.7.pdf": {
+      "sha256": "2748791bbabedefe4553c2f44f4849fbde948cc3f9bc97bfc7fc3fba1055de98",
+      "size": 33785
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 3.8.pdf": {
+      "sha256": "0c3b97e81fd5c4563de84a1e464d596235a74c46c992bca3cff4a41ed34ed6e5",
+      "size": 316324
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 4.pdf": {
+      "sha256": "30dab28e5affb8f07a3edddf5669e9e4605da4798cdae39bd9311d155d91c5ab",
+      "size": 1384174
+    },
+    "semester_1/research_methodology_and_ipr/notes/set1/RM Module 5.pdf": {
+      "sha256": "f8b07f19c6c3273f2387a22ca7f1ea32ad97191d6a8c0841c5b878af70ee5961",
+      "size": 769907
+    },
+    "semester_1/research_methodology_and_ipr/notes/set2/L1_INTRODUCTION TO RESEARCH METHODOLOGY.pdf": {
+      "sha256": "98b0d5cc7973646ff90eae2f772ca312dbdd08ecef97be9c05b7d8634baf679f",
+      "size": 1717427
+    },
+    "semester_1/research_methodology_and_ipr/notes/set2/M1_L2.pdf": {
+      "sha256": "44e583b1db5db76ff4c481ebec5067f9976e73e170fc6b1801a8a63fd5259cf9",
+      "size": 66595
+    },
+    "semester_1/research_methodology_and_ipr/notes/set2/M1_L3.pdf": {
+      "sha256": "962c79798f3becd220982a2d8c1d223a10e0f0813b12ac3af8c958fa61dcebcc",
+      "size": 2082596
+    },
+    "semester_1/research_methodology_and_ipr/notes/set2/M2_L1.pdf": {
+      "sha256": "d2579fc4e70199e75af2157c01321d2d56965e6dfc443af9f4b58992ddf52487",
+      "size": 692302
+    },
+    "semester_1/research_methodology_and_ipr/notes/set2/M2_L2 (1).pdf": {
+      "sha256": "76a47e7cffb2782bdba007ff2f665e6313f89182649bb72736b178fc15453e0c",
+      "size": 897479
+    },
+    "semester_1/research_methodology_and_ipr/notes/set2/M3_L1.pdf": {
+      "sha256": "853320d8fc9842c9c1dc50a1c2075626471d1875bf4b2f9356464f1e90db109f",
+      "size": 2629712
+    },
+    "semester_1/research_methodology_and_ipr/question_paper/Research Methodology.pdf": {
+      "sha256": "8cf8695d311cec678bdc95f54e3031f1cb96629176f43c01192a99b7d1531458",
+      "size": 2289035
+    },
+    "semester_1/syllabus/Research Methodology and IPR.pdf": {
+      "sha256": "5d218e7ac66f29749467181617720dec31a06bd60272c418bbb4ab1c15459ce9",
+      "size": 253068
+    },
+    "semester_1/syllabus/Syllabus M.Tech 2022 S1 CSE.pdf": {
+      "sha256": "6f4c8a3a31032aebc8b0cb7284c0e15d7d7a764a63b1801313782eb644281627",
+      "size": 2361255
+    },
+    "semester_3/Audit Courses.pdf": {
+      "sha256": "44cee10d86fcef77b383e25b4ca16adaa6d5e768524a4a05129413c754af275b",
+      "size": 1138995
+    },
+    "semester_3/Dissertation Phase I.pdf": {
+      "sha256": "3caa70f86e7af19e531f57c4fe9ab11c07b103431aa55bc803711f37c4b27e68",
+      "size": 97293
+    },
+    "semester_3/Internship.pdf": {
+      "sha256": "7c7727ef052fcb2f41d752976f1afb222906e74c4294951d995f3b478ad51416",
+      "size": 66607
+    },
+    "semester_4/Dissertation Phase II.pdf": {
+      "sha256": "cccc59c54e5b06b2668408e4c238a2b29d2b7f94a2d26de434660ae83501800f",
+      "size": 93050
+    }
+  },
+  "version": 1
+}
